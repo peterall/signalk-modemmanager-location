@@ -1,0 +1,16 @@
+{
+  "name": "signalk-modemmanager-location",
+  "version": "0.0.1",
+  "description": "SignalK plugin for ModemManager Location",
+  "main": "index.js",
+  "dependencies": {
+    "@signalk/nmea0183-signalk": "^3.15.1",
+    "chadburn": "^0.2.0",
+    "dbus": "^1.0.7"
+  },
+  "keywords": [
+    "signalk-node-server-plugin"
+  ],
+  "author": "Peter Allwin",
+  "license": "ISC"
+}
